@@ -2,7 +2,7 @@
 
 **An Open-Source Desktop Robotic Actuator & Controller System.**
 
-Yang-cheng-xie is a custom implementation of the **OpenClaw** architecture, specifically inspired by the research and designs of **Jialing Gu (NJUPT)**. This project aims to provide a high-performance, accessible hardware/software stack for desktop robotic manipulation and precision control.
+Yang-cheng-xie is a custom implementation of the **OpenClaw** architecture, specifically inspired by the research and designs of **Jialin Gu (NJUPT)**. This project aims to provide a high-performance, accessible hardware/software stack for desktop robotic manipulation and precision control.
 
 ---
 
@@ -13,7 +13,7 @@ By building on the foundations laid by the NJUPT robotics community, Yang-cheng-
 
 ## ✨ Key Features
 * **OpenClaw Compatible:** Built on the established OpenClaw logic and kinematics framework.
-* **NJUPT Inspired:** Incorporates design philosophies from Jialing Gu’s research in desktop robotics.
+* **NJUPT Inspired:** Incorporates design philosophies from Jialin Gu’s research in desktop robotics.
 * **Modular Design:** Easily adaptable for different end-effectors or mounting configurations.
 * **Real-time Control:** Optimized firmware for low-latency command execution.
 
